@@ -39,7 +39,7 @@ public class GPIO {
   // those constants are generally the same as in Arduino.h
   public static final int INPUT = 0;
   public static final int OUTPUT = 1;
-  public static final int INPUT_PULLUP = 2;
+  public static final int INPUT_PULLUP = 8;
   public static final int INPUT_PULLDOWN = 3;
 
   public static final int LOW = 0;
